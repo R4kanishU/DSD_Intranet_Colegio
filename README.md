@@ -1,0 +1,2 @@
+# DSD_Intranet_Colegio
+Según el último informe académico del centro de estudios “Peruano Suizo”, ha dado a conocer a los padres que sus hijos han tenido bajas notas y esto causo alarma en la reunión, por tal motivo exigen al colegio brindar una solución que ayude a hacer un seguimiento académico de los alumnos para tomar medidas y decisiones a tiempo, la cual será una alternativa en la que ellos no necesariamente se acerquen al colegio para poder supervisar a sus hijos.
